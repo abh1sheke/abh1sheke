@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@shekmeister**!
-- 👀 I’m an Undergraduate student interested in scientific computing and Web3!
+- 👀 I’m an Undergraduate student interested in Web development and Web 3.0!
 - 🌱 I’m currently learning full stack web developement.
 
 <!---
