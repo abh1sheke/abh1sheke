@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **@abh1sheke**!
-- 👀 I’m an Undergraduate Student that makes fun stuff for the Web.
-- 🌱 I’m currently learning systems and network programming with Rust and Go.
+- Checkout my [website](https://abh1sheke.vercel.app/)!
 
 <!---
 shekmeister/shekmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
