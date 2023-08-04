@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@abh1sheke**!
-- Checkout my [website](https://abh1sheke.vercel.app/)!
+- Checkout my <a href="https://abh1sheke.vercel.app/" target="_blank">website</a>
 
 <!---
 shekmeister/shekmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
